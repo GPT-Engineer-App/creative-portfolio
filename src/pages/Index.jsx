@@ -7,7 +7,7 @@ const Index = () => {
       <Flex direction="column" align="center" maxW="1200px" m="auto">
         <Image borderRadius="full" boxSize="150px" src="https://images.unsplash.com/photo-1598387746216-506f6bd47aad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxVSSUyRlVYJTIwZGVzaWduZXIlMjBwb3J0cmFpdHxlbnwwfHx8fDE3MTM2MzcyNzZ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="UI/UX Designer" mb={4} />
         <Heading as="h1" size="xl" mb={2}>
-          Jane Doe
+          Atul Raj
         </Heading>
         <Text fontSize="lg" color="gray.500">
           UI/UX Designer
