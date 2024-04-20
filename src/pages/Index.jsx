@@ -31,7 +31,7 @@ const Index = () => {
             <Heading as="h2" size="lg">
               About Me
             </Heading>
-            <Text mt={2}>I am a passionate UI/UX designer with over 5 years of experience, specializing in creating beautiful and user-friendly digital solutions. My goal is to solve complex problems through design, making the digital world accessible and enjoyable for all.</Text>
+            <Text mt={2}>Enthusiastic and versatile professional with a strong background in UI/UX design and front-end development. Proficient in delivering user-centered design solutions and building responsive web applications. Adept at collaborating within cross-functional teams to create seamless user experiences.</Text>
           </Box>
           <Box>
             <Heading as="h2" size="lg">
