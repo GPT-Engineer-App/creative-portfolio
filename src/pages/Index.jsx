@@ -45,6 +45,23 @@ const Index = () => {
               <Box p={5} shadow="md" borderWidth="1px">
                 <Heading fontSize="xl">Project Two</Heading>
                 <Text mt={4}>A mobile app designed to help users manage their daily tasks more efficiently.</Text>
+                <Link href="https://example.com/project-two" isExternal>
+                  View Project
+                </Link>
+              </Box>
+              <Box p={5} shadow="md" borderWidth="1px">
+                <Heading fontSize="xl">Project Three</Heading>
+                <Text mt={4}>A social media dashboard to track all your metrics in one place.</Text>
+                <Link href="https://example.com/project-three" isExternal>
+                  View Project
+                </Link>
+              </Box>
+              <Box p={5} shadow="md" borderWidth="1px">
+                <Heading fontSize="xl">Project Four</Heading>
+                <Text mt={4}>An interactive learning platform for children.</Text>
+                <Link href="https://example.com/project-four" isExternal>
+                  View Project
+                </Link>
               </Box>
             </VStack>
           </Box>
